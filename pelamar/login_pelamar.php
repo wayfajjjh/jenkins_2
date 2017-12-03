@@ -9,7 +9,7 @@
                             <!--<img src="img/logo.png" width="90px" style="margin-bottom: 20px;"/>-->
                             <h7 class="login-text">Login sebagai <b>Calon Pekerja</b>.</h7>
                             <input class="form-control" type="text" name="username" placeholder="Username" required/>
-                            <input class="form-control" type="password" name="password" placeholder="Password" required/>
+                            <input class="form-control" type="password" name="pass" placeholder="Password" required/>
                             <input class="btn btn-primary" type="submit" value="Login" style="padding: 14px 20px; margin-top: 20px;"
                                 required/>
                         </form>
